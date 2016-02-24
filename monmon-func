@@ -1,0 +1,17 @@
+var Tab = function() {
+	this.init();
+}
+
+Tab.prototype = {
+	init: function() {
+
+	},
+	bindUI: function() {
+
+	},
+	renderData: function() {
+
+	}
+}
+
+new Tab();
